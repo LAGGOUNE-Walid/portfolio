@@ -70,17 +70,17 @@
 	
 	header figure {
 		border: 3px solid #eee;
-		border-radius: 78px;
+		border-radius: 1px;
 		float: right;
-		height: 156px;
-		width: 156px;
+		height: 186px;
+		width: 186px;
 	}
 	
 	header figure img {
-		border-radius: 75px;
-		height: 150px;
+		border-radius: 1px;
+		height: 180px;
 		position: relative;
-		width: 150px;
+		width: 180px;
 	}
 	
 	header hgroup {
